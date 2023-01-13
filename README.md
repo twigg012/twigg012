@@ -6,13 +6,8 @@ My goal is to be a game developer in the future and work on 3D RPG games. I have
 
 **Current School Plan** AKA **Career advancement Plan**
 - :japan: Learning Japanese and enrolled in **JAPN 311** 
-- :video_game:Learning Unity Engine and enrolled in **Game 395** 
-- :thinking:Gaining an understanding of Philosophy as it relates to games in **Phil 400** :thinking:
-
-
-
-
-
+- :video_game: Learning Unity Engine and enrolled in **Game 395** 
+- :thinking: Gaining an understanding of Philosophy as it relates to games in **Phil 400** :thinking:
 - 🔭 I’m currently working on planning a unity game
 - 🌱 I’m currently learning unity..
 - 🤔 I’m looking for help with ...
