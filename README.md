@@ -16,7 +16,7 @@ My goal is to be a game developer in the future and work on 3D RPG games. I have
 - 🌱 I’m currently learning unity
 - 📫 You can email me at twigg012@odu.edu to contact me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:  What lead me to the backend of games was wanting to be the best at the games I played.
+- ⚡ Fun fact:  I love Arthurian tales and Norse mythology.
 <!--
 **twigg012/twigg012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
