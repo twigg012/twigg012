@@ -4,14 +4,14 @@ B.S. program at [ODU](https://ww1.odu.edu/academics/programs/undergraduate/game-
 My goal is to be a game developer in the future and work on 3D RPG games. I have a specific interest in more action based RPG's.
 
 
-**Current School Plan** AKA **Career advancement Plan**
+**Current School Plan** AKA **Career advancement Plan:**
 - :jp: Learning Japanese and enrolled in **JAPN 311**
 - :video_game: Learning Unity Engine and enrolled in **Game 395**
 - :thinking: Gaining an understanding of Philosophy as it relates to games in **Phil 400**
 
 
 
-**Here's some more info on me**
+**Here's some more info on me:**
 - 🔭 I’m currently working on planning a unity game
 - 🌱 I’m currently learning unity..
 - 🤔 I’m looking for help with ...
