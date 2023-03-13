@@ -12,7 +12,7 @@ My goal is to be a game developer in the future and work on 3D RPG games. I have
 
 
 **Here's some more info on me:**
-- 🔭 I’m currently working on planning a unity game
+- 🔭 I’m currently working on creating a VR experience
 - 🌱 I’m currently learning unity
 - 📫 You can email me at twigg012@odu.edu to contact me
 - 😄 Pronouns: he/him
