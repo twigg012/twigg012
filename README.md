@@ -1,8 +1,8 @@
 ### Nice to meet you 👋, I'm Travis.
 Hello, I'm **Travis Wiggins**, currently a Full time Student enrolled in the **Game Studies and Design**
 B.S. program at [ODU](https://ww1.odu.edu/academics/programs/undergraduate/game-studies-design)
-My goal is to be a game developer in the future and work on 3D RPG games. I have a specific interest in more action based RPG's.
 
+My goal is to leverage my diverse skillset to bring about positive change in the world. I have a passion for both playing and developing various types of games and immersive experiences. 
 
 **Current School Plan** AKA **Career advancement Plan:**
 - :jp: Learning Japanese and enrolled in **JAPN 311**
