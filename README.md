@@ -5,15 +5,14 @@ B.S. program at [ODU](https://ww1.odu.edu/academics/programs/undergraduate/game-
 My goal is to leverage my diverse skillset to bring about positive change in the world. I have a passion for both playing and developing various types of games and immersive experiences. 
 
 **Current School Plan** AKA **Career advancement Plan:**
-- :jp: Learning Japanese and enrolled in **JAPN 311**
-- :video_game: Learning Unity Engine and enrolled in **Game 395**
-- :thinking: Gaining an understanding of Philosophy as it relates to games in **Phil 400**
+- :jp: Learning Japanese and enrolled in **JAPN 309, JAPN 495, JAPN 302*
+- :video_game: Learning Unreal Engine for indepdent study
 
 
 
 **Here's some more info on me:**
-- 🔭 I’m currently working on creating a VR experience
-- 🌱 I’m currently learning unity
+- 🔭 I’m currently working on expanding my Unreal Engine skills
+- 🌱 I’m currently learning Unreal Engine
 - 📫 You can email me at twigg012@odu.edu to contact me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  I love Arthurian tales and Norse mythology.
