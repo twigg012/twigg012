@@ -5,7 +5,7 @@ B.S. program at [ODU](https://ww1.odu.edu/academics/programs/undergraduate/game-
 My goal is to leverage my diverse skillset to bring about positive change in the world. I have a passion for both playing and developing various types of games and immersive experiences. 
 
 **Current School Plan** AKA **Career advancement Plan:**
-- :jp: Learning Japanese and enrolled in **JAPN 309, JAPN 495, JAPN 302*
+- :jp: Learning Japanese and enrolled in **JAPN 309, JAPN 495, JAPN 302**
 - :video_game: Learning Unreal Engine for indepdent study
 
 
