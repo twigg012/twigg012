@@ -1,8 +1,10 @@
 ### Nice to meet you 👋, I'm Travis.
 Hello, I'm **Travis Wiggins**, I currently have a Bachelors of Science in Game Studies and Design and a minor in Japanese. I look forward to leveraging my hardworking mindset and diverse skillset to be a boon to any team.
+One of my side hobbies is working with Ai like ChatGPT and Stablediffusion to see what things I can generate and how I can improve my prompts for future use!
 
 
-
+![00345-4022016352](https://github.com/twigg012/twigg012/assets/73553932/efe59fb6-c74e-4600-a2a3-ba3bc8fb5d67)
+(This is an example of Ai Art I've created)
 
 
 **Here's some more info on me:**
@@ -10,7 +12,7 @@ Hello, I'm **Travis Wiggins**, I currently have a Bachelors of Science in Game S
 - 🌱 I’m currently learning Unreal Engine
 - 📫 You can email me at traviswigginsgd@gmail.com to contact me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:  I love Arthurian tales and Norse mythology.
+- ⚡ Fun fact:  I love Japanese culture
 <!--
 **twigg012/twigg012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
