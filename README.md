@@ -3,9 +3,6 @@ Hello, I'm **Travis Wiggins**, I currently have a Bachelors of Science in Game S
 One of my side hobbies is working with Ai like ChatGPT and Stablediffusion to see what things I can generate and how I can improve my prompts for future use!
 
 
-![00345-4022016352](https://github.com/twigg012/twigg012/assets/73553932/efe59fb6-c74e-4600-a2a3-ba3bc8fb5d67)
-(This is an example of Ai Art I've created)
-
 
 **Here's some more info on me:**
 - 🔭 I’m currently working on some personal projects
